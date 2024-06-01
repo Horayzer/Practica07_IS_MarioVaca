@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mario Vaca\\Documents\\6to\\Integraci\u00F3n de Sistemas\\Parcial 3\\Ventas2_SOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8976747-1D32-4A63-8774-7FED97A91CD5}|SOAPventas2\\SOAPventas2.csproj|c:\\users\\mario vaca\\documents\\6to\\integraci\u00F3n de sistemas\\parcial 3\\ventas2_soap\\soapventas2\\servicesoapventas2producto.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8976747-1D32-4A63-8774-7FED97A91CD5}|SOAPventas2\\SOAPventas2.csproj|solutionrelative:soapventas2\\servicesoapventas2producto.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD632B4-D1A6-407B-ABC2-1410F921CBAC}|Negocio\\Negocio.csproj|C:\\Users\\Mario Vaca\\Documents\\6to\\Integraci\u00F3n de Sistemas\\Parcial 3\\Ventas2_SOAP\\negocio\\negocioproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD632B4-D1A6-407B-ABC2-1410F921CBAC}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocioproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23A0B26-7F6A-4DFE-9A96-16893E50EAEA}|Datos\\Datos.csproj|C:\\Users\\Mario Vaca\\Documents\\6to\\Integraci\u00F3n de Sistemas\\Parcial 3\\Ventas2_SOAP\\datos\\datosproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23A0B26-7F6A-4DFE-9A96-16893E50EAEA}|Datos\\Datos.csproj|solutionrelative:datos\\datosproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD00881A-E117-4862-9F18-E14EAB0C4CFE}|AccesoDatos\\AccesoDatos.csproj|C:\\Users\\Mario Vaca\\Documents\\6to\\Integraci\u00F3n de Sistemas\\Parcial 3\\Ventas2_SOAP\\accesodatos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD00881A-E117-4862-9F18-E14EAB0C4CFE}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceSoapVentas2Producto.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Mario Vaca\\Documents\\6to\\Integraci\u00F3n de Sistemas\\Parcial 3\\Ventas2_SOAP\\SOAPventas2\\ServiceSoapVentas2Producto.asmx.cs",
+              "RelativeDocumentMoniker": "SOAPventas2\\ServiceSoapVentas2Producto.asmx.cs",
+              "ToolTip": "C:\\Users\\Mario Vaca\\Documents\\6to\\Integraci\u00F3n de Sistemas\\Parcial 3\\Ventas2_SOAP\\SOAPventas2\\ServiceSoapVentas2Producto.asmx.cs",
+              "RelativeToolTip": "SOAPventas2\\ServiceSoapVentas2Producto.asmx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:39:21.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NegocioProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Mario Vaca\\Documents\\6to\\Integraci\u00F3n de Sistemas\\Parcial 3\\Ventas2_SOAP\\Negocio\\NegocioProducto.cs",
+              "RelativeDocumentMoniker": "Negocio\\NegocioProducto.cs",
+              "ToolTip": "C:\\Users\\Mario Vaca\\Documents\\6to\\Integraci\u00F3n de Sistemas\\Parcial 3\\Ventas2_SOAP\\Negocio\\NegocioProducto.cs",
+              "RelativeToolTip": "Negocio\\NegocioProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:39:17.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatosProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Mario Vaca\\Documents\\6to\\Integraci\u00F3n de Sistemas\\Parcial 3\\Ventas2_SOAP\\Datos\\DatosProducto.cs",
+              "RelativeDocumentMoniker": "Datos\\DatosProducto.cs",
+              "ToolTip": "C:\\Users\\Mario Vaca\\Documents\\6to\\Integraci\u00F3n de Sistemas\\Parcial 3\\Ventas2_SOAP\\Datos\\DatosProducto.cs",
+              "RelativeToolTip": "Datos\\DatosProducto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:39:12.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Mario Vaca\\Documents\\6to\\Integraci\u00F3n de Sistemas\\Parcial 3\\Ventas2_SOAP\\AccesoDatos\\Producto.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Producto.cs",
+              "ToolTip": "C:\\Users\\Mario Vaca\\Documents\\6to\\Integraci\u00F3n de Sistemas\\Parcial 3\\Ventas2_SOAP\\AccesoDatos\\Producto.cs",
+              "RelativeToolTip": "AccesoDatos\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:39:08.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

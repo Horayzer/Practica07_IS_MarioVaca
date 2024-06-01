@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ventasBDModelStoreContainer" CdmEntityContainer="ventasBDEntities">
+    <EntitySetMapping Name="Categoria">
+      <EntityTypeMapping TypeName="ventasBDModel.Categoria">
+        <MappingFragment StoreEntitySet="Categoria">
+          <ScalarProperty Name="idCategoria" ColumnName="idCategoria" />
+          <ScalarProperty Name="nombreCategoria" ColumnName="nombreCategoria" />
+          <ScalarProperty Name="observacionCategoria" ColumnName="observacionCategoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Producto">
+      <EntityTypeMapping TypeName="ventasBDModel.Producto">
+        <MappingFragment StoreEntitySet="Producto">
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="pvp" ColumnName="pvp" />
+          <ScalarProperty Name="impuesto" ColumnName="impuesto" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="marca" ColumnName="marca" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

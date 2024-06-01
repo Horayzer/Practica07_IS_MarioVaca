@@ -1,0 +1,15 @@
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\bin\Debug\Data.dll.config
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\bin\Debug\Data.dll
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\bin\Debug\Data.pdb
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\bin\Debug\DataAccess.dll
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\bin\Debug\EntityFramework.dll
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\bin\Debug\DataAccess.pdb
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\bin\Debug\DataAccess.dll.config
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\bin\Debug\EntityFramework.xml
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\obj\Debug\Data.csproj.Up2Date
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\obj\Debug\Data.dll
+C:\Users\Mario Vaca\Documents\6to\Integración de Sistemas\Parcial 1\PracticaN05\PracticaN05_IS_Ventas\Data\obj\Debug\Data.pdb
